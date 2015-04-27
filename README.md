@@ -7,7 +7,7 @@ This GitHub repository aimes to collect open public datasets. The goal is to cre
 Name | Frequency | Format | Description | Publisher
 ---- | ----------| -------| ------------| ---------
 [1000 genomes](http://www.1000genomes.org/data) | 1 release | TSV | The 1000 Genomes Project is a community resource project that aims to release data rapidly for the benefit of the scientific community | [The European Bioinformatics Institute](http://www.ebi.ac.uk/)
-[Cancer Program Datasets](http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi) | 1 release | TSV | Huge variety of datasets about bioinformatcs. | [Broad Institute](http://www.broadinstitute.org/)
+[Cancer Program Datasets](http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi) | 1 release | TSV | Huge variety of datasets about bioinformatics. | [Broad Institute](http://www.broadinstitute.org/)
 
 ## Climate
 
